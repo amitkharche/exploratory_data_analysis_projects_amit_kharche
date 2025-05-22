@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** file for your Air Quality EDA project, tailored for GitHub:
-
----
-
 ````markdown
 # 🌫️ Air Quality Exploratory Data Analysis (EDA) – Urban Pollution Monitoring
 
@@ -136,6 +132,3 @@ If you found this project insightful, feel free to ⭐️ the repository and fol
 ```
 
 ---
-
-Let me know if you want this customized with your GitHub username, project folder names, or converted to `.md` format ready for upload.
-```
