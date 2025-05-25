@@ -1,4 +1,3 @@
-
 ````markdown
 # 🧬 Breast Cancer Survival Analysis – Exploratory Data Analysis (EDA)
 
@@ -74,37 +73,38 @@ This project investigates a curated dataset of breast cancer patients to underst
 ## 🧪 How to Run the Project
 
 1. **Clone the repository:**
-```bash
-git clone https://github.com/amitkharche/exploratory_data_analysis_projects_amit_kharche.git
-cd exploratory_data_analysis_projects_amit_kharche/EDA_Breast_Cancer_Survival_amit_kharche
+
+   ```bash
+   git clone https://github.com/amitkharche/exploratory_data_analysis_projects_amit_kharche.git
+   cd exploratory_data_analysis_projects_amit_kharche/EDA_Breast_Cancer_Survival_amit_kharche
 ````
 
 2. **(Optional) Create and activate a virtual environment:**
 
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
 
 3. **Install dependencies:**
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 4. **Launch Jupyter Notebook:**
 
-```bash
-jupyter notebook
-```
+   ```bash
+   jupyter notebook
+   ```
 
 5. **Open the file:**
 
-```
-EDA_Breast_Cancer_Survival_Amit_Kharche.ipynb
-```
+   ```
+   EDA_Breast_Cancer_Survival_Amit_Kharche.ipynb
+   ```
 
-and run the cells to reproduce the analysis and visual outputs.
+   and run the cells to reproduce the analysis and visual outputs.
 
 ---
 
