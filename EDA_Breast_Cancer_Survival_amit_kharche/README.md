@@ -1,4 +1,5 @@
-````markdown
+
+---
 # 🧬 Breast Cancer Survival Analysis – Exploratory Data Analysis (EDA)
 
 This project investigates a curated dataset of breast cancer patients to understand survival outcomes based on clinical and demographic variables. By applying robust exploratory data analysis techniques, the study uncovers patterns in survival based on age, surgery year, and axillary lymph node involvement. The findings help shed light on key indicators influencing long-term survival among breast cancer patients.
@@ -130,4 +131,4 @@ This project is shared for **educational and analytical purposes**. Please refer
 
 If this project was helpful or insightful, please ⭐ the repository and share your feedback!
 
-```
+---
