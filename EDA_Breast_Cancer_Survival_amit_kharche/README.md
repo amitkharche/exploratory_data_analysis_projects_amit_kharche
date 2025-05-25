@@ -1,5 +1,4 @@
 
----
 # 🧬 Breast Cancer Survival Analysis – Exploratory Data Analysis (EDA)
 
 This project investigates a curated dataset of breast cancer patients to understand survival outcomes based on clinical and demographic variables. By applying robust exploratory data analysis techniques, the study uncovers patterns in survival based on age, surgery year, and axillary lymph node involvement. The findings help shed light on key indicators influencing long-term survival among breast cancer patients.
@@ -78,7 +77,7 @@ This project investigates a curated dataset of breast cancer patients to underst
    ```bash
    git clone https://github.com/amitkharche/exploratory_data_analysis_projects_amit_kharche.git
    cd exploratory_data_analysis_projects_amit_kharche/EDA_Breast_Cancer_Survival_amit_kharche
-````
+   ```
 
 2. **(Optional) Create and activate a virtual environment:**
 
@@ -117,18 +116,16 @@ This project is shared for **educational and analytical purposes**. Please refer
 
 ## 🤝 Acknowledgements
 
-* Dataset adapted from UCI ML Repository
-* Analysis inspired by clinical research on breast cancer prognosis
-* Visuals aligned with EDA best practices for medical data
+- Dataset adapted from UCI ML Repository  
+- Analysis inspired by clinical research on breast cancer prognosis  
+- Visuals aligned with EDA best practices for medical data  
 
 ---
 
 ## ✨ Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/amit-kharche)
-* [Medium](https://medium.com/@amitkharche14)
-* [GitHub](https://github.com/amitkharche)
+- [LinkedIn](https://www.linkedin.com/in/amit-kharche)  
+- [Medium](https://medium.com/@amitkharche14)  
+- [GitHub](https://github.com/amitkharche)  
 
 If this project was helpful or insightful, please ⭐ the repository and share your feedback!
-
----
