@@ -1,4 +1,5 @@
-````markdown
+
+---
 # 🏏 Indian Premier League (IPL) – Exploratory Data Analysis (EDA)
 
 This project explores detailed match and ball-by-ball datasets from the **Indian Premier League (IPL)**, one of the world’s most popular T20 cricket tournaments. Using robust **Exploratory Data Analysis (EDA)** techniques, we analyze trends in team performance, player contributions, match outcomes, and gameplay dynamics to uncover **actionable insights** and **strategic patterns** in IPL history.
@@ -133,4 +134,4 @@ This project is shared for **educational and analytical purposes** only. Redistr
 
 If you found this project insightful, please ⭐ the repository and share your feedback!
 
-```
+---

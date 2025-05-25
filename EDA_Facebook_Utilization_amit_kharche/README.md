@@ -1,4 +1,5 @@
-````markdown
+
+---
 # 📘 Facebook Utilization – Exploratory Data Analysis (EDA)
 
 This project dives into a user-level dataset from Facebook to uncover how **age**, **gender**, **tenure**, and **engagement metrics** such as **friendships** and **likes** shape user behavior. Through comprehensive exploratory data analysis, the project reveals key patterns, anomalies, and behavioral insights that can help platforms or businesses understand their audience better.
@@ -139,4 +140,4 @@ This project is provided for **educational and analytical purposes only**. Use o
 
 > If this project helped you learn or build something cool, consider ⭐ starring the repository and sharing your feedback!
 
-```
+---

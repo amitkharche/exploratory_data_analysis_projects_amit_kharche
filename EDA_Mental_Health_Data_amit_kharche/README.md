@@ -1,4 +1,5 @@
-````markdown
+
+---
 # 🧠 Mental Health in Tech – Exploratory Data Analysis (EDA)
 
 This project investigates mental health issues in the technology workplace using a rich survey dataset. The analysis explores how factors like company culture, support systems, demographics, and job roles influence employee mental wellness. Through comprehensive EDA, the project aims to identify high-risk groups, systemic gaps, and opportunities to improve mental health awareness and support at work.
@@ -129,4 +130,4 @@ This project is shared for **educational and awareness purposes**. The dataset i
 
 If you found this project valuable, please ⭐ the repo and share your feedback!
 
-```
+---

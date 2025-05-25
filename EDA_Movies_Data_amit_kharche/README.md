@@ -1,4 +1,5 @@
 
+---
 # 🎬 IMDb Top 1000 Movies – Exploratory Data Analysis (EDA)
 This project dives deep into a curated dataset of the **Top 1000 IMDb movies**, exploring patterns in movie genres, ratings, revenue, metascores, runtimes, and industry contributors. Using robust EDA techniques, the analysis uncovers insights into what makes a movie critically and commercially successful.
 
@@ -108,3 +109,5 @@ This project is intended for **educational and analytical purposes only**. Pleas
 - [GitHub](https://github.com/amitkharche)
 
 If you found this project helpful or insightful, please ⭐ the repository and share your thoughts!
+
+---

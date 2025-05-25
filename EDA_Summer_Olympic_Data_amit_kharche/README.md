@@ -1,4 +1,6 @@
-````markdown
+
+---
+
 # 🏅 Summer Olympics – Exploratory Data Analysis (EDA)
 
 This project explores a rich dataset of Summer Olympic Games, analyzing trends in athlete participation, medal distribution, sports dominance, and host city impact. Using robust EDA techniques, the analysis uncovers patterns across countries, genders, and decades, offering insights into the evolution of the Olympics.
@@ -128,4 +130,4 @@ This project is shared for **educational and analytical purposes** only. Redistr
 
 If you found this project insightful, please ⭐ the repository and feel free to connect or share your feedback!
 
-```
+---

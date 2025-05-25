@@ -134,4 +134,4 @@ This project is intended for **educational and analytical purposes only**. Redis
 
 > If you found this project insightful, please ⭐ the repository and share your feedback!
 
-```
+---

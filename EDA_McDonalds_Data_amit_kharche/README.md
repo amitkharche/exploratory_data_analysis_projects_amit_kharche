@@ -1,4 +1,5 @@
-````markdown
+
+---
 # 🍔 McDonald's Customer Behavior – Exploratory Data Analysis (EDA)
 
 This project dives into customer behavior and service perception using a McDonald’s feedback dataset. By applying robust EDA techniques, the analysis uncovers patterns in customer satisfaction, meal preferences, service expectations, and store-level feedback to provide actionable insights for improving the fast-food customer experience.
@@ -131,4 +132,4 @@ This project is shared for **educational and analytical purposes**. Redistributi
 
 If you found this project insightful, please ⭐ the repository and feel free to connect and share your thoughts!
 
-```
+---
