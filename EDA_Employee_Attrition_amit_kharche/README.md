@@ -1,4 +1,6 @@
-````markdown
+
+---
+
 # 👨‍💼 Employee Attrition Analysis – Exploratory Data Analysis (EDA)
 
 This project investigates a simulated dataset focused on **employee attrition**, analyzing key **demographic**, **job-related**, and **satisfaction metrics** to identify patterns behind voluntary exits in a corporate setting. Using detailed EDA techniques, the analysis reveals how various organizational and personal factors contribute to attrition risk.
